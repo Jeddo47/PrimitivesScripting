@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class SizeChangeController : MonoBehaviour
+public class SizeChanger : MonoBehaviour
 {
     [SerializeField] private Vector3 _sizeChangeSpeed;
 
